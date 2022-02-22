@@ -1,10 +1,12 @@
 <?xml version="1.0"?>
 <package>
   <name>tango_msgs</name>
-  <version>1.0.0</version>
-  <description>The tango_msgs package</description>
-  <maintainer email="keiranburrows@hotmail.co.uk">Dr Keiran Burrows</maintainer>
+  <version>2.0.0</version>
+  <description>The tango_msgs package contains custom messages for the robot</description>
+  <maintainer email="robotics@fearn.org.uk">Tomos Fearn</maintainer>
   <author email="keiranburrows@hotmail.co.uk">Dr Keiran Burrows</author>
+  <author email="robotics@fearn.org.uk">Tomos Fearn</author>
+  <url type="repository">https://github.com/fearn-robotics/tango_msgs</url>
   <license>BSD</license>
   
   <buildtool_depend>catkin</buildtool_depend>
